@@ -1,0 +1,28 @@
+{
+    "StockName": [
+      { 
+        "Name": "L&T",
+        "price": 450,
+        "NoOfShares": 43,
+        "investmentPrStock":null
+      },
+      {
+        "Name": "AirInd",
+        "price": 1450,
+        "NoOfShares": 4,
+        "investmentPrStock":null
+      },
+      {
+        "Name": "Relic",
+        "price": 160,
+        "NoOfShares": 48,
+        "investmentPrStock":null
+      },
+      {
+        "Name": "TATA",
+        "price": 100,
+        "NoOfShares": 25,
+        "investmentPrStock":null
+      }
+    ]
+  }

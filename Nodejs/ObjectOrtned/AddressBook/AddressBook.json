@@ -1,0 +1,49 @@
+{
+  "PersonDetails": [
+    {
+      "FirstName": "Chotu",
+      "LastName": "Deshmukh",
+      "Address": "Nd-115,warje,pune",
+      "City": "pune",
+      "State": "Maharashtra",
+      "ZipCode": "411005",
+      "MobNumber": "7218585085"
+    },
+    {
+      "FirstName": "Aparapali",
+      "LastName": "Jaiswal",
+      "Address": "Chambur",
+      "City": "Pune",
+      "State": "Maharashtra",
+      "ZipCode": "411111",
+      "MobNumber": "7894561237"
+    },
+    {
+      "FirstName": "Aomesh",
+      "LastName": "Khan",
+      "Address": "Loha",
+      "City": "Nanded",
+      "State": "Nanded",
+      "ZipCode": "400071",
+      "MobNumber": "8759578528"
+    },
+    {
+      "FirstName": "Balu",
+      "LastName": "Kumar",
+      "Address": "Nd-115,hudco",
+      "City": "Nanded",
+      "State": "Maharashtra",
+      "ZipCode": "431603",
+      "MobNumber": "8529756485"
+    },
+    {
+      "FirstName": "Komal",
+      "LastName": "Jamge",
+      "Address": "Loha",
+      "City": "Nanded",
+      "State": "Nanded",
+      "ZipCode": "433152",
+      "MobNumber": "8759578528"
+    }
+  ]
+}

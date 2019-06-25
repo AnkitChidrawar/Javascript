@@ -1,0 +1,82 @@
+{
+  "Inventery": {
+    "rice": [
+      {
+        "ricename": "Basmati",
+        "price": 45,
+        "weight": null,
+        "TotalPrice": null
+      },
+      {
+        "ricename": "Kolam",
+        "price": 30,
+        "weight": null,
+        "TotalPrice": null
+      },
+      {
+        "ricename": "white",
+        "price": "54",
+        "weight": "2kg",
+        "TotalPrice": 108
+      },
+      {
+        "ricename": "Rich",
+        "price": "78",
+        "weight": "3kg",
+        "TotalPrice": 234
+      },
+      {
+        "ricename": "WhitePurle",
+        "price": "110",
+        "weight": "3 kg",
+        "TotalPrice": 330
+      },
+      {
+        "ricename": "BasmatiGold",
+        "price": "90",
+        "weight": "2 kg",
+        "TotalPrice": 180
+      }
+    ],
+    "pulses": [
+      {
+        "pulseName": "GreenGram",
+        "price": 60,
+        "weight": null,
+        "TotalPrice": null
+      },
+      {
+        "pulseName": "Chickpeas",
+        "price": 50,
+        "weight": null,
+        "TotalPrice": null
+      },
+      {
+        "Name": "mug",
+        "price": "80",
+        "weight": "4 kg",
+        "TotalPrice": 320
+      },
+      {
+        "Name": "Udad",
+        "price": "90",
+        "weight": "2 kg",
+        "TotalPrice": 180
+      }
+    ],
+    "wheats": [
+      {
+        "wheatName": "spelt",
+        "price": 90,
+        "weight": null,
+        "TotalPrice": null
+      },
+      {
+        "wheatName": "einkorn",
+        "price": 120,
+        "weight": null,
+        "TotalPrice": null
+      }
+    ]
+  }
+}

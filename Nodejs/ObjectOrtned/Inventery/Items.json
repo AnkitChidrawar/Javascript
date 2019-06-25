@@ -1,0 +1,34 @@
+{
+  "rice": [
+    {
+      "ricename": "Basmati",
+      "price": 45
+    },
+    {
+      "ricename": "Kolam",
+      "price": 30
+    }
+  ],
+
+  "pulses": [
+    {
+      "pulseName":"GreenGram",
+      "price": 60
+    },
+    {
+      "pulseName":"Chickpeas",
+      "price": 50
+    }
+  ],
+  "wheats": [
+      {
+        "wheatName":"spelt",
+        "price": 90
+      },
+      {
+        "wheatName":"einkorn",
+        "price": 120
+      }
+    ]
+
+}
